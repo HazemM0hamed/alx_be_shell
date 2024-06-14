@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod +x 6-multiple_permissions
+chmod 764 6-multiple_permissions
+chmod 554 hello
